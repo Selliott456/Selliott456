@@ -1,6 +1,6 @@
-<div align="center">
-![](header.png)
-</div>
+<p align="center">
+  <img src="header.png" alt="header"/>
+</p>
 ## Hello I'm Sherryll 💻 
 
 
