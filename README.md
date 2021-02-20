@@ -1,4 +1,6 @@
+<div align="center">
 ![](header.png)
+</div>
 ## Hello I'm Sherryll 💻 
 
 
