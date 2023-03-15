@@ -1,12 +1,10 @@
-<p align="center">
-  <img src="header.png" alt="header"/>
-</p>
 
-## Hello I'm Sherryll 💻 
+
+## Hello I'm Elliott 💻 
 
 
 ### About
-Second career developer. I work at Breakroom. 
+Second career developer. I currently work with Elixir and Phoenix but have been known to MERN stack my way through life too... 
 
 
 
